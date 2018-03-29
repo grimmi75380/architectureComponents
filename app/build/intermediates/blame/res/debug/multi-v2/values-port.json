@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\grimm\\AndroidStudioProjects\\architectureComponentsSunshineStartingCode\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\grimm\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\08a1730303a99cffa6181512ad291c88\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\grimm\\AndroidStudioProjects\\architectureComponentsSunshineStartingCode\\app\\src\\main\\res\\values-port\\bools.xml",
+                    "from": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "691",
+                        "endColumns": "45",
+                        "endOffsets": "732"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "111",
+                        "endColumns": "45",
+                        "endOffsets": "152"
+                    }
+                }
+            ]
+        }
+    ]
+}
