@@ -27,7 +27,7 @@ import java.util.Date;
 public class WeatherEntry {
     @PrimaryKey(autoGenerate = true)
     private int id;
-    private int weatherIconId;
+    private int weatherIconId ;
     private Date date;
     private double min;
     private double max;

@@ -30,7 +30,6 @@ class WeatherResponse {
     public WeatherResponse(@NonNull final WeatherEntry[] weatherForecast) {
         mWeatherForecast = weatherForecast;
     }
-
     public WeatherEntry[] getWeatherForecast() {
         return mWeatherForecast;
     }
